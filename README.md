@@ -37,11 +37,6 @@ portfolio/
 
 I'm a software development student and a self-taught graphic designer passionate about building beautiful and functional digital experiences. This site is part of my ongoing learning journey.
 
-## 📷 Screenshots
-
-| Desktop | Mobile |
-|--------|--------|
-| ![desktop](images/screenshot-desktop.png) | ![mobile](images/screenshot-mobile.png) |
 
 ## 📬 Contact
 
